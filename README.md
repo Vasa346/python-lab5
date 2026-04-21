@@ -15,7 +15,14 @@
 - Оформлен отчёт.
 
 ## Скриншоты результатов
-*(Сюда вставить скриншоты через GitHub)*
+1. Запуск generator.py (обычный и многопоточный генератор)
+<img width="930" height="221" alt="изображение" src="https://github.com/user-attachments/assets/a4c9e185-6e5a-4199-83f0-854537c9a69d" />
+
+2. Запуск тестов pytest (4 passed)
+<img width="1200" height="283" alt="изображение" src="https://github.com/user-attachments/assets/ef42e14a-1b10-4095-af8f-2e7b5939bd1e" />
+
+3. История коммитов (git log --oneline -5)
+<img width="1155" height="110" alt="изображение" src="https://github.com/user-attachments/assets/15070e8f-eea2-496d-99f9-37174d46a24b" />
 
 ## Ссылки на используемые материалы
 - [Официальная документация Python](https://docs.python.org/3/)
